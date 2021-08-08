@@ -1,9 +1,13 @@
-##
-Crud operations using hooks on fake api with React Native
+# Getting Started with Create React App with Fake Api
 
-![gif](https://raw.githubusercontent.com/yhekim/CSS-WORKS/master/Card%20Flip%20Effect/card.gif)
-![gif](https://raw.githubusercontent.com/yhekim/CSS-WORKS/master/Card%20Flip%20Effect/card.gif)
-![gif](https://raw.githubusercontent.com/yhekim/CSS-WORKS/master/Card%20Flip%20Effect/card.gif)
+## In my first project with React Native, I showed you crud operations with hooks.
+
+## Crud operations using hooks on fake api with React Native
+
+
+![gif](https://raw.githubusercontent.com/yhekim/React-Native-firstProje-fakeApi-CrudOperations/main/1.gif)
+![gif](https://raw.githubusercontent.com/yhekim/React-Native-firstProje-fakeApi-CrudOperations/main/2.gif)
+![gif](https://raw.githubusercontent.com/yhekim/React-Native-firstProje-fakeApi-CrudOperations/main/3.gif)
 
 # Getting Started with Create React App
 
