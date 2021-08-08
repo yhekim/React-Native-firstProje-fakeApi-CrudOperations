@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "id": 3,
+      "name": "Arrow",
+      "rating": "9.5",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content."
+    },
+    {
+      "id": 4,
+      "name": "Rogue",
+      "rating": 7.4,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Project Power",
+      "rating": 6.7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "name": "Hızlı ve Öfkeli 9 ",
+      "rating": "9",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6qcTy5Po5Vn4jnzVqMBv4AmBNWN.jpg",
+      "overview": "Vin Diesel’in Dom Toretto karakteri, oğlu küçük Brian ile gözlerden uzakta, sessiz bir hayat sürmektedir. Ama huzurlu çevrelerinin hemen ötesinde tehlikenin hep pusuda olduğunu biliyorlardır. Bu kez tehlike Dom’u, en sevdiklerini kurtarmak istiyorsa geçmişinin günahlarıyla yüzleşmeye zorlayacaktır. ",
+      "id": 6
+    }
+  ]
+}
